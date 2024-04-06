@@ -1,0 +1,32 @@
+.book-list {
+    flex: 1;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .book-item {
+    cursor: pointer;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .book-item:hover {
+    transform: translateY(-5px);
+  }
+  
+  .book-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .book-info h3 {
+    margin-top: 5px;
+    font-size: 16px;
+  }
+  
