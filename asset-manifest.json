@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virtual-bookstore/static/css/main.c472b85a.css",
+    "main.js": "/virtual-bookstore/static/js/main.34b49346.js",
+    "index.html": "/virtual-bookstore/index.html",
+    "main.c472b85a.css.map": "/virtual-bookstore/static/css/main.c472b85a.css.map",
+    "main.34b49346.js.map": "/virtual-bookstore/static/js/main.34b49346.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c472b85a.css",
+    "static/js/main.34b49346.js"
+  ]
+}
